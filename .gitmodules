@@ -1,0 +1,9 @@
+[submodule "motherbroad"]
+	path = motherbroad
+	url = https://github.com/OpenFPGAduino/motherbroad.git
+[submodule "extensionbroad"]
+	path = extensionbroad
+	url = https://github.com/OpenFPGAduino/extensionbroad.git
+[submodule "corebroad"]
+	path = corebroad
+	url = https://github.com/OpenFPGAduino/corebroad.git
