@@ -1,2 +1,2 @@
 # hardware
-The open hardware file of openfgpadunino
+The open hardware file of openfpgaduino
